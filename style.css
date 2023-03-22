@@ -4,6 +4,7 @@ body {
 }
 
 
+
 .blurb h2 {
     color: #ea1c2c;
     font-weight: 100;
@@ -15,6 +16,10 @@ body {
     font-weight: 100;
     font-size: 1.125rem;
     line-height: 2;
+}
+
+.content {
+    margin-top: 100px;
 }
 
 #mainNavbar {
